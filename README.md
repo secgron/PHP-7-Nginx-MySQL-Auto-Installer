@@ -1,5 +1,5 @@
 # PHP-7-Nginx-MySQL-Auto-Installer-
-Bash auto installer for PHP 7, Nginx &amp; MySQL Auto
+PHP 7, Nginx &amp; MySQL Auto Installer for CentOS 6 & 7
 
 ## Usage ##
 
