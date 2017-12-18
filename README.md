@@ -3,7 +3,9 @@ PHP 7, Nginx &amp; MySQL Auto Installer for CentOS 6 & 7
 
 ## Usage ##
 
+CentOS 6
 ```bash
+$ wget https://raw.githubusercontent.com/teguhmicro/PHP-7-Nginx-MySQL-Auto-Installer-/master/installer-for-centos-6.sh -O install.sh
 $ bash install.sh
 ```
 ## MIT License ##
