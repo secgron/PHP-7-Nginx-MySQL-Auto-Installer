@@ -5,12 +5,12 @@ PHP 7, Nginx &amp; MySQL Bash Auto Installer for CentOS 6 & 7
 
 CentOS 6
 ```bash
-$ wget https://raw.githubusercontent.com/teguhmicro/PHP-7-Nginx-MySQL-Auto-Installer-/master/installer-for-centos-6.sh -O install.sh
+$ wget https://raw.githubusercontent.com/teguhmicro/PHP-7-Nginx-MySQL-Auto-Installer/master/installer-for-centos-6.sh -O install.sh
 $ bash install.sh
 ```
 CentOS 7
 ```bash
-$ wget https://raw.githubusercontent.com/teguhmicro/PHP-7-Nginx-MySQL-Auto-Installer-/master/installer-for-centos-7.sh -O install.sh
+$ wget https://raw.githubusercontent.com/teguhmicro/PHP-7-Nginx-MySQL-Auto-Installer/master/installer-for-centos-7.sh -O install.sh
 $ bash install.sh
 ```
 
