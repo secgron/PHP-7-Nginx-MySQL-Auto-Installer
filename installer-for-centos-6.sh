@@ -55,6 +55,7 @@ echo
 echo
 
 echo -e "$MAG--=[Starting PHP, MySQL & Nginx Services]=--$IJO"
+service httpd stop
 service php-fpm start
 service mysqld start
 service nginx start
