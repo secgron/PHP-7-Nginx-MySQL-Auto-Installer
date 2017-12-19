@@ -15,7 +15,7 @@ echo -e "$IJO  |    |   \  |  /    <  / __ \|   |  \ $MAG \     \___(  <_> ) /_/
 echo -e "$IJO  |______  /____/|__|_ \(____  /___|  / $MAG  \______  /\____/\____ |\___  >__|    $RESET"
 echo -e "$IJO        \/           \/     \/     \/   $MAG        \/            \/    \/         $RESET"
 echo -e "$IJO ---------------------------------------------------------------------------       $RESET"
-echo -e "$IJO |$MAG      PHP + NginX + MySQL Auto Installer on CentOS 6 by Bukan Coder      $IJO| $RESET"
+echo -e "$IJO |$MAG      PHP + NginX + MySQL Auto Installer on CentOS 7 by Bukan Coder      $IJO| $RESET"
 echo -e "$IJO ---------------------------------------------------------------------------       $RESET"
 echo -e "$IJO |$IJO                               Created by                                $IJO| $RESET"
 echo -e "$IJO |$MAG                             Teguh Aprianto                              $IJO| $RESET"
