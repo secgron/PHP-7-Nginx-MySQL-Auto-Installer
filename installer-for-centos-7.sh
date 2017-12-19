@@ -36,7 +36,7 @@ echo
 echo
 
 echo -e "$MAG--=[Installing MySQL]=--$IJO "
-yum -y --enablerepo=remi install mysql-server 
+yum -y --enablerepo=epel install mysql-server 
 echo
 echo
 echo -e "$MAG--=[Installing PHP 7]=--$IJO"
@@ -56,9 +56,9 @@ echo
 
 echo -e "$MAG--=[Starting PHP, MySQL & Nginx Services]=--$IJO"
 apachectl stop
-systemctl php-fpm start
-systemctl mysqld start
-systemctl nginx start
+systemctl start php-fpm 
+systemctl start mysqld 
+systemctl start nginx 
 echo
 echo
 echo -e "$MAG--=[Set Services Auto Start after Reboot]=--$IJO"
